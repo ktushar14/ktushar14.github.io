@@ -10,7 +10,7 @@ module.exports = defineConfig({
     properties: [],
   },
   theme: {
-    color: "sky",
+    color: "teal",
   },
   editThisNote: {
     url: "https://example.com/edit/{{file}}",
