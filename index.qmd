@@ -1,0 +1,8 @@
+---
+title: "About Me"
+image: profile.jpg
+about:
+  template: trestles
+---
+
+I'm a robotics researcher and engineer, currently working for the [**Boston Dynamics AI Institute**](https://theaiinstitute.com) where I'm trying to make robots learn to do stuff by watching humans do said stuff. Previously, I spent time at [**Carnegie Mellon University**](https://www.cmu.edu/)'s [**Robotics Institute**](https://www.ri.cmu.edu/) where I made robots move around while looking at the right things around them. Eons ago, I studied electrical systems and computer science at the [**Birla Institute of Technology and Science, Pilani**](https://www.bits-pilani.ac.in/Goa/).

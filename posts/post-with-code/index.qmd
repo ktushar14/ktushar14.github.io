@@ -1,0 +1,11 @@
+---
+title: "Feedback in Machine Learning"
+author: "Tushar Kusnur"
+date: "2024-11-25"
+categories: [machine learning, imitation learning, robotics]
+draft: true
+---
+
+Nearly six years ago, after I had just begun my journey in robotics, I was drawn to a large number of areas relating to decision making in general.
+One such area was imitation learning: something I knew very little about.
+This was long before [Diffusion Policies](https://diffusion-policy.cs.columbia.edu/) popularized behavior cloning (?) in the robotics community.

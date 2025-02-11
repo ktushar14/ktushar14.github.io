@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tushar Kusnur"
+  navbar:
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/tushar-kusnur
+      - icon: github
+        href: https://github.com/ktushar14
+
+format:
+  html:
+    theme: solar
+    css: styles.css

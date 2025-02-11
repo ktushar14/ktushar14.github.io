@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a robotics researcher and engineer, currently at the Boston Dynamics AI Institute where we’re trying to make robots learn to do stuff by watching and understanding humans. Previously, I spent time at Carnegie Mellon University’s Robotics Institute where I made robots move around while looking at the right things around them. And eons ago, I studied electrical systems and computer science at the Birla Institute of Technology and Science, Pilani.\nIn this corner of the interwebs, you shall find: less fun versions of the above (bio, resume, CV), my research, my writing, and my contact information."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Feedback in Machine Learning",
+    "section": "",
+    "text": "Nearly six years ago, after I had just begun my journey in robotics, I was drawn to a large number of areas relating to decision making in general. One such area was imitation learning: something I knew very little about. This was long before Diffusion Policies popularized behavior cloning (?) in the robotics community."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Pedantic Semantics",
+    "section": "",
+    "text": "An empty blog with a name I liked.\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
